@@ -10,10 +10,10 @@ void setup()
     // Set sensorPin as an INPUT
     pinMode(sensorPin, INPUT);
 
-    // Set pin A1 to use as a power pin for the light sensor
+    // Set pin A5 to use as a power pin for the light sensor
     // If using the LilyPad Development Board, comment out these lines of code
-    pinMode(A1, OUTPUT);
-    digitalWrite(A1, HIGH);
+    pinMode(A5, OUTPUT);
+    digitalWrite(A5, HIGH);
 
     // Initialize Serial, set the baud rate to 9600 bps.
     Serial.begin(9600);
