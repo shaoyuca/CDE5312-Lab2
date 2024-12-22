@@ -13,7 +13,7 @@ the NeoPixel library.
 
 #include <Adafruit_NeoPixel.h>
 
-#define PIN 6  //Which pin the pixels are connected to
+#define PIN 9  //Which pin the pixels are connected to
 #define LED_COUNT 5  // Number of pixels used: 5 as an example
 
 // Create an instance of the Adafruit_NeoPixel class called "strip".
