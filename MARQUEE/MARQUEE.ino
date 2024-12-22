@@ -1,7 +1,7 @@
 #include <Adafruit_NeoPixel.h>
 
 // Pin to use to send signals to WS2812B
-#define LED_PIN 6
+#define LED_PIN 9
 
 // Number of WS2812B LEDs attached to the Arduino
 #define LED_COUNT 12
