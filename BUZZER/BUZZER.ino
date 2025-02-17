@@ -1,4 +1,4 @@
-int buzzerPin = 5;
+int buzzerPin = 9;
 
 // Delay in milliseconds
 int delayTime = 500; 
